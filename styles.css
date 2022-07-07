@@ -89,6 +89,17 @@ input[type="submit"] {
   transition: all 0.3s;
 }
 
+.form-buttons {
+  color: white;
+  border: 1px solid white;
+  background-color: black;
+  width: 300px;
+  height: 36.67px;
+  font-size: 1rem;
+  text-align: center;
+}
+
+
 input[type="submit"]:active {
   background-color: gray;
 }
